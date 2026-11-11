@@ -1,1 +1,2 @@
 # tree-parallelization-techniques
+该厂库对不同树结构并行化技术代码进行整合，根据不同树结构与不同操作进行分类
